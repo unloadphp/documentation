@@ -1,0 +1,35 @@
+.heroBanner {
+  padding: 2.5rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 5em;
+}
+
+.heroBannerLogo {
+  max-width: 170px;
+  max-height: 170px;
+}
+
+.heroButtons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10em;
+}
+
+.blockContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.blockImage {
+  max-width: 80px;
+  margin-bottom: 20px;
+}
+
+.github {
+  width: 15px;
+  margin-right: 10px;
+  fill: red;
+}

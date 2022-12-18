@@ -1,0 +1,54 @@
+{
+  "docs": [
+    {
+      "type": "category",
+      "label": "Getting Started",
+      "link": {
+        "type": "generated-index"
+      },
+      "items":  [
+        "install",
+        "laravel"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Manifest Reference",
+      "link": {
+        "type": "generated-index"
+      },
+      "items":  [
+        "reference/common",
+        "reference/queue",
+        "reference/build",
+        "reference/cache",
+        "reference/bucket",
+        "reference/firewall",
+        "reference/database",
+        "reference/domain"
+      ]
+    },
+    {
+      "type": "category",
+      "label": "CLI Reference",
+      "link": {
+        "type": "generated-index"
+      },
+      "collapsed": false,
+      "items": [
+        "cli/bootstrap",
+        "cli/build",
+        "cli/ci",
+        "cli/dashboard",
+        "cli/deploy",
+        "cli/destroy",
+        "cli/domain",
+        "cli/env",
+        "cli/exec",
+        "cli/log",
+        "cli/network",
+        "cli/pipeline"
+      ]
+    }
+  ]
+}
