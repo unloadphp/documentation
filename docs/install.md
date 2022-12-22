@@ -12,7 +12,7 @@ title: install
 Download and install Unload binary from [`github releases`](https://github.com/unloadphp/unload/releases):
 
 ```bash
-curl -L https://github.com/unloadphp/unload/releases/download/0.1.0/unload -o unload
+curl -L https://github.com/unloadphp/unload/releases/download/0.1.1/unload -o unload
 chmod +x unload
 sudo mv unload /usr/local/bin/unload
 ```
@@ -36,6 +36,6 @@ unload --version
    \______||_|   |_||_______) \_____/ |______||_____/  
                                                        
 
-  0.1.0
+  0.1.1
   SAM CLI, version 1.66.0
 ```
