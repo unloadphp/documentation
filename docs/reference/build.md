@@ -24,5 +24,5 @@ Define a set of commands to be executed during the deploy phase before traffic s
 
 ```yaml
 deploy: |
-  php artisan migration
+  php artisan migrate --force
 ```
