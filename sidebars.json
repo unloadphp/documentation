@@ -19,12 +19,14 @@
       },
       "items":  [
         "reference/common",
+        "reference/warm",
         "reference/queue",
         "reference/build",
         "reference/cache",
         "reference/bucket",
         "reference/firewall",
         "reference/database",
+        "reference/extension",
         "reference/domain"
       ]
     },
