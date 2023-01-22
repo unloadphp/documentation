@@ -15,6 +15,7 @@ profile: sample
 env: production
 region: eu-west-1
 runtime: provided
+architecture: x86_64
 php: 8.1
 
 concurrency: 1
@@ -34,6 +35,7 @@ warm: yes
 - [region] - Region where all infrastructure resources being deployed. **Required**
 - [runtime] - Lambda runtime type. (Supported: provided). **Required**
 - [php] - Php version for provided runtime. **Required**
+- [architecture] - Lambda runtime architecture. (Supported: x86_64,arm64).
 - [concurrency] - Maximum number of messages being processed at the same time. Default value is unlimited.
 - [timeout] - The amount of time (in seconds) that worker allowed to process the message. The default is 900 seconds. The maximum allowed value is 900 seconds.
 - [memory] - The amount of memory available to the worker at runtime in MB. The default value is 1024 or inherited from global setting if defined.
