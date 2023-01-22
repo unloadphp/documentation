@@ -1,6 +1,6 @@
 ---
 id: warm
-title: Warming
+title: Warm
 ---
 
 ## Warming

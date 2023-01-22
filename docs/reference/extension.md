@@ -1,6 +1,6 @@
 ---
 id: extension
-title: Extensions
+title: Extension
 ---
 
 ## Extensions
