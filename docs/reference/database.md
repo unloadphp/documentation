@@ -11,7 +11,7 @@ Define a provisioned Mysql RDS instance to store application data.
 database:
   engine: mysql
   size: db.t3.micro
-  version: 8.0.23
+  version: 8.0.34
   disk: 10
   multi-az: yes
   backup-retention: 3
@@ -35,7 +35,7 @@ See [supported regions](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserG
 ```yaml
 database:
   engine: aurora
-  version: 5.6.10a
+  version: 5.7.mysql-aurora.2.08.3
   min-capacity: 1
   max-capacity: 1
   backup-retention: 3

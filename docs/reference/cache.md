@@ -11,6 +11,7 @@ Define a ElasticCache Redis for application caching purposes.
 cache:
   engine: redis
   size: cache.t3.micro
+  version: '7.0'
   shards: 1
   replicas: 0
   snapshot: 1

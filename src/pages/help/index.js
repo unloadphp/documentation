@@ -9,7 +9,7 @@ const supportLinks = [
     content: (
       <ul>
         <li>
-          Learn how to <a href="/docs/getting-started">get started</a> with Unload.
+          Learn how to <a href="/docs/install">get started</a> with Unload.
         </li>
       </ul>
     ),
@@ -21,7 +21,7 @@ const supportLinks = [
       <ul>
         <li>
             Create post via{' '}
-            <a href="https://discordapp.com/channels/102860784329052160/103622435865104384">
+            <a href="https://github.com/unloadphp/unload/discussions">
                 github discussions
             </a> a collaborative communication forum.
         </li>

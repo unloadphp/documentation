@@ -21,7 +21,7 @@ const siteConfig = {
   ],
   plugins: ['docusaurus-plugin-sass'],
   title: 'UNLOAD',
-  tagline: '🚀 The simplest way to build and deploy a serverless PHP application with AWS Cloud',
+  tagline: '🚀 Serverless Laravel with AWS Cloud',
   organizationName: 'unload',
   projectName: 'unload.sh',
   url: 'https://unload.sh',

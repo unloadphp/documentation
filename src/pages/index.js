@@ -11,13 +11,12 @@ import GitHubButton from 'react-github-btn';
 
 const contents = [
   {
-    content:
-        'Build on top of existing and battle tested tools like AWS SAM, AWS Cloudformation and Bref.sh.',
+    content: 'Build on top of existing and battle tested tools like AWS SAM, AWS Cloudformation and Bref.sh.',
     image: '/img/content/layer.svg',
     title: 'Solid Foundation',
   },
   {
-    content: 'Straingforward configuration format to setup core application infractructure (network, queues, databases, cache and object storage).',
+    content: 'Straightforward configuration format to set up core application infrastructure (network, queues, databases, cache and object storage).',
     image: '/img/content/wrench.svg',
     title: "Developer Expirience",
   },
